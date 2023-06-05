@@ -17,6 +17,7 @@ Apply Feature Generation/Feature Selection Techniques on the data set
 Apply EDA /Data visualization techniques to all the features of the data set
 
 # Program:
+```
 Developed by : Priyadharshini.P
 Register number : 212222100039
 
@@ -82,7 +83,28 @@ plt.ylabel(column1)
 plt.title('Box Plot of ' + column1 + ' by ' + categorical_var)
 plt.xticks(rotation=90)
 plt.show()
+```
+# 0UTPUT
+![Screenshot 2023-06-05 205317](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/6012884f-e11f-42dc-9de1-e3564f825163)
+![Screenshot 2023-06-05 205331](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/d762241a-3506-4d80-a29b-af170377e195)
+![Screenshot 2023-06-05 205344](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/c8d180ed-fef7-4f9b-9b35-fdb874e803c1)
 
+![plot](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/bbab7551-229f-47bc-9016-9116086c5628)
+![bar](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/d5061fd1-9189-4d13-9461-e6a33ececbe3)
+
+
+![Screenshot 2023-06-05 205445](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/d63d59dd-9108-4d63-b5f0-69d9c62b85f9)
+![Screenshot 2023-06-05 205505](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/d3745cde-a376-4c69-9914-15ff0ffb4f4b)
+
+![Screenshot 2023-06-05 205514](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/aab09404-e47d-4780-8215-e07d05e1ac0b)
+
+
+![Screenshot 2023-06-05 205532](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/18931c6d-ccbe-4469-9e65-23f1efd59398)
+![Screenshot 2023-06-05 205546](https://github.com/Priyadharshini-Er/Exp-10-Data-Science-Process-on-Complex-Dataset/assets/119558093/2af35c34-c139-4b2f-86d8-bff3aaea48f8)
+
+
+# RESULT:
+Thus, we have read the given data and Performed Data Science Process on a complex dataset
 
 
 
